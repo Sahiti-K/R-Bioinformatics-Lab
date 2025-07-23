@@ -16,7 +16,7 @@ This repository is organized into modules, each reflecting a core area of learni
 
 | Folder | Description |
 |--------|-------------|
-| `00_foundations/`         | R basics, syntax, data types, tidyverse, ggplot2, and intro plots |
+| `00_Basics/`         | R basics, syntax, data types, tidyverse, ggplot2, and intro plots |
 | `01_data_handling/`       | Reading, filtering, transforming CSV/TSV/Excel datasets |
 | `02_data_visualization/`  | Creating effective plots with `ggplot2` for biological data |
 | `03_biological_data_types/` | Handling DNA, RNA, Protein sequences and formats |
