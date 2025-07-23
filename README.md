@@ -14,15 +14,17 @@ Welcome to the **R Bioinformatics Lab** — a structured and evolving portfolio 
 
 This repository is organized into modules, each reflecting a core area of learning or application:
 
-| Folder               | Description                                             |
-|----------------------|---------------------------------------------------------|
-| `00_foundations/`     | R basics, tidyverse, ggplot2, R Markdown, data wrangling |
-| `01_genomic_data/`    | Working with DNA/RNA sequences, file formats (FASTA, GTF) |
-| `02_expression_analysis/` | Transcriptomics, gene expression, differential analysis     |
-| `03_projects/`         | Mini and major projects using real biological datasets       |
-| `04_visualizations/`   | Data visualizations for genomics and transcriptomics         |
-| `05_shiny_apps/`       | Interactive apps and dashboards built with Shiny             |
-| `99_notes/`            | Notes, references, and learning resources                    |
+| Folder | Description |
+|--------|-------------|
+| `00_foundations/`         | R basics, syntax, data types, tidyverse, ggplot2, and intro plots |
+| `01_data_handling/`       | Reading, filtering, transforming CSV/TSV/Excel datasets |
+| `02_data_visualization/`  | Creating effective plots with `ggplot2` for biological data |
+| `03_biological_data_types/` | Handling DNA, RNA, Protein sequences and formats |
+| `04_sequence_analysis/`   | Working with FASTA, GC content, ORFs, and motif finding |
+| `05_data_wrangling/`      | Using `dplyr`, `tidyr` for biological data manipulation |
+| `06_exploratory_projects/`| Real-world mini-projects combining analysis & storytelling |
+| `LICENSE`                 | Optional license for reuse or contribution |
+| `A_banner.png`            | Visual banner for repository (optional aesthetic) |
 
 ---
 
