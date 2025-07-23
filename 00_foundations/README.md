@@ -7,6 +7,7 @@ This module covers the essential building blocks of R programming tailored for b
 - Data frames and basic manipulations  
 - Introduction to plotting with `ggplot2`
 
-All visual outputs are stored in the `outputs/` folder.
+A single example plot is included (`life_expectancy_vs_gdp.png`) to demonstrate basic visualization. 
+Since this module contains only one plot, a separate `outputs/` folder is not used — the image is stored directly in this directory.
 
 > This folder marks the start of my R journey in bioinformatics. I'm learning from the ground up and documenting everything as I go.
