@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="r_bioinformatics_lab_banner.png" alt="R Bioinformatics Lab Banner" width="100%">
+</p>
+
 # 🧬 R Bioinformatics Lab
 
 Welcome to the **R Bioinformatics Lab** — a structured and evolving portfolio documenting my journey to master bioinformatics using **R**. This lab is focused on practical, project-based learning using core R libraries such as `tidyverse`, `Bioconductor`, and `ggplot2`.
