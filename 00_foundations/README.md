@@ -1,4 +1,4 @@
-# 🚀 00_foundations
+# 🚀 00_Basics
 
 This module covers the essential building blocks of R programming tailored for bioinformatics. It includes:
 
