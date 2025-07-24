@@ -1,5 +1,4 @@
-# 00_foundations.R
-# Author: Sahiti K
+# 00_Basics.R
 # Description: Foundations of R for Bioinformatics
 # Covers: Basic syntax, tidyverse operations, and ggplot2 visualization
 
