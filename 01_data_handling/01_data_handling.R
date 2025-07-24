@@ -81,7 +81,3 @@ india_lifeExp_plot <- ggplot(india_data, aes(x = year, y = lifeExp)) +
   theme_minimal()
 
 print(india_lifeExp_plot)
-
-# Save the plot
-ggsave("outputs/life_expectancy_india.png", india_lifeExp_plot, width = 7, height = 5
-       
