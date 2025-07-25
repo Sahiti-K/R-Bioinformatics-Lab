@@ -4,7 +4,7 @@
 
 # 🧬 R Bioinformatics Lab
 
-Welcome to the **R Bioinformatics Lab** — a structured and evolving portfolio documenting my journey to master bioinformatics using **R**. This lab is focused on practical, project-based learning using core R libraries such as `tidyverse`, `Bioconductor`, and `ggplot2`.
+Welcome to the **R Bioinformatics Lab** — a structured and evolving portfolio documenting my journey to master bioinformatics using **R**. This lab focuses on practical, project-based learning using core R libraries, including `tidyverse`, `Bioconductor`, and `ggplot2`.
 
 > 📌 _Goal: Build real-world skills in bioinformatics using R programming._
 
@@ -47,10 +47,8 @@ This repository is organized into modules, each reflecting a core area of learni
 ## 📚 Learning Resources
 
 This journey is supported by a mix of courses, papers, and tutorials:
-- [HarvardX PH525.1x: Data Analysis for Life Sciences](https://pll.harvard.edu/course/data-science-life-sciences-1-statistics-and-r)
-- Bioconductor official documentation
-- Tidyverse and ggplot2 books
 - Research papers and public datasets
+- Many of the insights, code examples, and explanations in this lab were crafted with the help of ChatGPT by OpenAI — acting as my study buddy and guide on this bioinformatics journey.
 
 ---
 
