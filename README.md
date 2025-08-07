@@ -46,11 +46,9 @@ This repository is organized into modules, each reflecting a core area of learni
 
 ## 📚 Learning Resources
 
-This journey is supported by a mix of courses, papers, and tutorials:
+A mix of courses, papers, and tutorials supports this journey:
 - Research papers and public datasets
-- Many of the insights, code examples, and explanations in this lab were crafted with the help of ChatGPT by OpenAI — acting as my study buddy and guide on this bioinformatics journey.
-
----
+- Many of the insights, code examples, and explanations in this lab were crafted with the help of ChatGPT by OpenAI — acting as my coding guide and tutor.
 
 ## 📌 Follow Along
 
